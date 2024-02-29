@@ -1,0 +1,14 @@
+name: "Workout Tracker"
+website_url: "https://github.com/jovandeginste/workout-tracker"
+source_code_url: "https://github.com/jovandeginste/workout-tracker"
+description: "A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities"
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Analytics
+  - Miscellaneous
+depends_3rdparty: true
+related_software_url: "https://github.com/jovandeginste/workout-tracker?tab=readme-ov-file#compatiblity"
